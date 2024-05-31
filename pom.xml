@@ -5,7 +5,7 @@
 
     <groupId>ContohProjectMaven</groupId>
     <artifactId>ContohProject</artifactId>
-    <version>0.0.1-SNAPSHOT</version>
+    <version>0.3.5</version> 
 
     <properties>
         <maven.compiler.source>1.8</maven.compiler.source>
@@ -20,6 +20,14 @@
             <version>4.11</version>
         </dependency>
     </dependencies>
+
+    <distributionManagement>
+        <repository>
+            <id>github</id>
+                <name>GitHub Packages</name>
+            <url>https://maven.pkg.github.com/W-zrd/Basic-Maven-CI</url>
+        </repository>
+    </distributionManagement>
 
     <build>
     <plugins>
