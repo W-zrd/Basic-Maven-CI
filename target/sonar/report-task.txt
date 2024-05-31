@@ -1,0 +1,7 @@
+organization=w-zrd
+projectKey=W-zrd_Basic-Maven-CI
+serverUrl=https://sonarcloud.io
+serverVersion=8.0.0.54573
+dashboardUrl=https://sonarcloud.io/dashboard?id=W-zrd_Basic-Maven-CI
+ceTaskId=AY-qdRZa2wgPHO1IkyQd
+ceTaskUrl=https://sonarcloud.io/api/ce/task?id=AY-qdRZa2wgPHO1IkyQd

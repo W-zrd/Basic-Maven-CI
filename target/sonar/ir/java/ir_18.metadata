@@ -1,0 +1,8 @@
+Driver#main([Ljava/lang/String;)V
+Counter#instance-init#
+Counter#<init>()V
+==
+println java.io.PrintStream#println(Ljava/lang/String;)V
+decrement Counter#decrement()V
+getCount Counter#getCount()I
+increment Counter#increment()V

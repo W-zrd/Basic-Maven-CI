@@ -13,7 +13,7 @@ public class CounterTest {
 		}
 		
 		testCounter.reset();
-		
+		// Actual 0: tes sukses
 		assertEquals(testCounter.getCount(), 0);
 	}
 
